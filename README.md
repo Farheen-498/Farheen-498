@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Farheen-498
 - 👀 I’m interested in Java development
-- 🌱 I’m currently learning @DevOps
+- 🌱 I’m currently learning @Big Data
 - 📫 How to reach me : linkedin-https://www.linkedin.com/in/farheen-ali-252831185/  
 
 <!---
