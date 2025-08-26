@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Farheen-498
-- 👀 I’m interested in Java development
+- 👀 I’m SDE 2
 - ☁️ I am a Cloud enthusiast
-- 🌱 I’m currently learning @Dev Ops
 - 📫 How to reach me: LinkedIn-https://www.linkedin.com/in/farheen-ali-252831185/  
 
 <!---
